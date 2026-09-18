@@ -1,0 +1,58 @@
+[
+  {
+    "question": "Qual o limite de valor para dispensa de licitacao em servicos de engenharia?",
+    "relevant_ids": ["res-001-2025#0006"]
+  },
+  {
+    "question": "Quantos fornecedores preciso consultar para estimar o preco?",
+    "relevant_ids": ["res-001-2025#0004"]
+  },
+  {
+    "question": "Qual o prazo da area de suprimentos para analisar a requisicao?",
+    "relevant_ids": ["res-001-2025#0008"]
+  },
+  {
+    "question": "Posso fracionar a despesa para ficar abaixo do limite de dispensa?",
+    "relevant_ids": ["res-001-2025#0006"]
+  },
+  {
+    "question": "Quando o procedimento licitatorio e inexigivel?",
+    "relevant_ids": ["res-001-2025#0007"]
+  },
+  {
+    "question": "O que a requisicao formal precisa conter?",
+    "relevant_ids": ["res-001-2025#0002"]
+  },
+  {
+    "question": "O que acontece se a requisicao nao tiver justificativa da necessidade?",
+    "relevant_ids": ["res-001-2025#0003"]
+  },
+  {
+    "question": "Quem fiscaliza a execucao do contrato?",
+    "relevant_ids": ["res-001-2025#0010"]
+  },
+  {
+    "question": "Preciso de relatorio de impacto para tratar dado biometrico?",
+    "relevant_ids": ["res-002-2025#0003"]
+  },
+  {
+    "question": "Qual o prazo para atender pedido de eliminacao de dados do titular?",
+    "relevant_ids": ["res-002-2025#0005"]
+  },
+  {
+    "question": "Em quanto tempo devo comunicar um incidente de seguranca?",
+    "relevant_ids": ["res-002-2025#0007"]
+  },
+  {
+    "question": "Como e concedido o acesso a sistemas?",
+    "relevant_ids": ["res-002-2025#0006"]
+  },
+  {
+    "question": "A aquisicao de solucao de tecnologia precisa de parecer tecnico?",
+    "relevant_ids": ["res-002-2025#0002"]
+  },
+  {
+    "question": "Por quanto tempo os dados pessoais podem ser retidos?",
+    "relevant_ids": ["res-002-2025#0004"]
+  }
+]

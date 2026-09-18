@@ -1,0 +1,40 @@
+RESOLUCAO NORMATIVA 002/2025
+
+Dispoe sobre o uso de recursos de tecnologia da informacao e sobre o tratamento
+de dados pessoais no ambito da entidade.
+
+Art. 1o Esta resolucao disciplina o uso dos recursos de tecnologia da
+informacao e o tratamento de dados pessoais realizado pelas unidades da
+entidade.
+
+Art. 2o A aquisicao de solucao de tecnologia da informacao sera precedida de
+parecer tecnico da area de tecnologia, que avaliara a aderencia a arquitetura
+vigente, os requisitos de seguranca e o custo total de propriedade.
+
+Art. 3o O tratamento de dados pessoais observara as bases legais previstas na
+legislacao aplicavel, sendo vedado o tratamento sem finalidade determinada e
+informada ao titular.
+
+Par. 1o O tratamento de dados pessoais sensiveis, incluindo dado biometrico,
+exige consentimento especifico e destacado do titular, ou o enquadramento em
+uma das hipoteses legais que dispensam o consentimento.
+
+Par. 2o Toda solucao que trate dado biometrico sera precedida de relatorio de
+impacto a protecao de dados pessoais.
+
+Art. 4o Os prazos de retencao de dados pessoais serao definidos por finalidade
+e registrados em inventario mantido pela area de tecnologia, sendo vedada a
+retencao por prazo indeterminado.
+
+Art. 5o O titular podera requerer a eliminacao de seus dados pessoais, que sera
+atendida no prazo de quinze dias, ressalvadas as hipoteses de guarda
+obrigatoria previstas em lei.
+
+Art. 6o O acesso a sistemas sera concedido segundo o principio do menor
+privilegio, revisado semestralmente e revogado imediatamente no desligamento do
+usuario.
+
+Art. 7o Incidentes de seguranca serao comunicados a area de tecnologia em ate
+vinte e quatro horas do conhecimento do fato.
+
+Art. 8o Esta resolucao entra em vigor na data de sua publicacao.
